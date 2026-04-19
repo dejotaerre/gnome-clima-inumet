@@ -1,0 +1,39 @@
+{
+  "estaciones": [
+    {
+      "id": 211,
+      "ciudad": "Montevideo",
+      "barrio": "Tres Cruces",
+      "_comentario": "Estación principal 'Prado', es la mas cercana a mi localización"
+    },
+    {
+      "id": 39,
+      "ciudad": "Montevideo",
+      "barrio": "Carrasco",
+      "_comentario": "Estación secundaria por si la principal está caída o falló por el motivo que sea"
+    },
+    {
+      "id": 159,
+      "ciudad": "Montevideo",
+      "barrio": "Melilla",
+      "_comentario": "Estación terciaria por si la principal y la secundaria fallaron por el motivo que sea"
+    }
+  ],
+  "zonas_pronostico": [
+    {
+      "id": 88,
+      "nombre": "Área Metropolitana",
+      "_comentario": "Zona principal para el pronóstico"
+    },
+    {
+      "id": 67,
+      "nombre": "Centro-Sur",
+      "_comentario": "Fallback 1"
+    },
+    {
+      "id": 86,
+      "nombre": "Suroeste",
+      "_comentario": "Fallback 2"
+    }
+  ]
+}

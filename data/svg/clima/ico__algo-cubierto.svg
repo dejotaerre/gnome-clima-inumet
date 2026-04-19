@@ -1,0 +1,23 @@
+<svg id="algo-cubierto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1,.cls-2,.cls-4{fill:#fff;}.cls-1,.cls-3{stroke:#e8ae37;}.cls-1,.cls-3,.cls-4{stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}.cls-3{fill:none;}.cls-4{stroke:#6dadc6;}
+    </style>
+  </defs>
+  <title>ico__algo-cubierto</title>
+  <g id="_Grupo_" data-name=" Grupo ">
+    <g id="_Grupo_2" data-name=" Grupo 2">
+      <path id="_Trazado_" data-name=" Trazado " class="cls-1" d="M27.52,26A6.69,6.69,0,0,0,17.85,17"/>
+      <rect class="cls-2" x="17.92" y="18.26" width="7.4" height="6.59"/>
+      <line id="_Trazado_2" data-name=" Trazado 2" class="cls-3" x1="22" y1="12.42" x2="22" y2="5.81"/>
+      <g id="_Grupo_3" data-name=" Grupo 3">
+        <line id="_Trazado_3" data-name=" Trazado 3" class="cls-3" x1="38.45" y1="22.27" x2="31.84" y2="22.27"/>
+      </g>
+      <g id="_Grupo_4" data-name=" Grupo 4">
+        <line id="_Trazado_4" data-name=" Trazado 4" class="cls-3" x1="31.3" y1="13.29" x2="28.96" y2="15.63"/>
+      </g>
+    </g>
+    <path id="_Trazado_5" data-name=" Trazado 5" class="cls-4"
+          d="M26.72,25.53v-.45a4.39,4.39,0,0,0-4.38-4.39,4.45,4.45,0,0,0-2.17.57A6.67,6.67,0,0,0,7,21a6.68,6.68,0,1,0,6,11.17,5,5,0,0,0,8.08-.25,4.38,4.38,0,1,0,7.33-4.81,4.33,4.33,0,0,0-1.73-1.53Z"/>
+  </g>
+</svg>

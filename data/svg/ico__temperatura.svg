@@ -1,0 +1,16 @@
+<svg id="ico_temperatura" data-name="ico  temperatura" xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 24.3 24.41">
+  <defs>
+    <style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#00a9c5;}</style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="7.97" y="0.87" width="8.35" height="22.68"/>
+    </clipPath>
+  </defs>
+  <title>ico__temperatura</title>
+  <g class="cls-2">
+    <path class="cls-3"
+          d="M12.16.87A2.65,2.65,0,0,0,9.51,3.51V16.19a4.17,4.17,0,1,0,5.29,0V3.51A2.64,2.64,0,0,0,12.16.87Zm3.4,18.52a3.41,3.41,0,1,1-5.45-2.71.4.4,0,0,0,.16-.31V15.23H11v-.75h-.75V13.34H11v-.75h-.75V11.45H11V10.7h-.75V9.56H11V8.81h-.75V7.67H11V6.92h-.75V5.78H11V5h-.75V3.51a1.89,1.89,0,0,1,3.78,0V16.37a.39.39,0,0,0,.15.31,3.35,3.35,0,0,1,1.36,2.71Zm0,0"/>
+  </g>
+  <path class="cls-3"
+        d="M12.53,17.54V4.27h-.75V17.54a1.89,1.89,0,1,0,.75,3.7,1.89,1.89,0,0,0,0-3.7Zm-.37,3a1.14,1.14,0,1,1,1.13-1.14,1.14,1.14,0,0,1-1.13,1.14Zm0,0"/>
+</svg>

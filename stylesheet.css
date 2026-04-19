@@ -1,0 +1,134 @@
+.weather-card {
+  padding: 18px;
+  border-radius: 14px;
+  spacing: 14px;
+  min-width: 320px;
+}
+
+.weather-title {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.weather-subtitle {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.weather-place {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* panel */
+.panel-status-menu-box {
+  spacing: 6px;
+  align-items: center;
+}
+
+.weather-night-block {
+  spacing: 12px;
+  align-items: center;
+}
+
+.weather-night-left {
+  spacing: 8px;
+}
+
+.weather-night-text {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.weather-night-row {
+  spacing: 12px;
+  align-items: flex-start;
+}
+
+.system-status-icon {
+  icon-size: 16px;
+}
+
+/* bloque principal */
+.weather-hero {
+  spacing: 18px;
+  align-items: center;
+}
+
+.weather-hero-center {
+  spacing: 4px;
+  min-width: 110px;
+}
+
+.weather-hero-right {
+  spacing: 4px;
+}
+
+.weather-hero-icon {
+  icon-size: 160px;
+}
+
+.weather-now {
+  font-size: 16px;
+}
+
+.weather-temp {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.weather-status {
+  font-size: 18px;
+  opacity: 0.85;
+}
+
+.weather-minmax {
+  font-size: 16px;
+}
+
+.weather-side-item {
+  font-size: 16px;
+  opacity: 0.95;
+}
+
+/* secciones */
+.weather-section-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.weather-separator {
+  height: 2px;
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+/* noche */
+.weather-night-row {
+  spacing: 12px;
+  align-items: flex-start;
+}
+
+/* forecast */
+.weather-forecast-line {
+  spacing: 14px;
+  align-items: flex-start;
+}
+
+.weather-forecast-mm {
+  font-size: 14px;
+  min-width: 82px;
+  padding-top: 2px;
+}
+
+.weather-forecast-side {
+  font-size: 14px;
+  padding-top: 2px;
+}
+
+/* opcional: afinar labels generales dentro del forecast */
+.weather-forecast-line StLabel {
+  font-size: 14px;
+}

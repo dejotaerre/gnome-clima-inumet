@@ -1,0 +1,16 @@
+<svg id="relampagos" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <style>.cls-1{fill:#fff;stroke:#6dadc6;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}</style>
+  </defs>
+  <title>ico__relampagos</title>
+  <g id="_Grupo_" data-name=" Grupo ">
+    <g id="_Grupo_2" data-name=" Grupo 2">
+      <g id="_Grupo_3" data-name=" Grupo 3">
+        <path id="_Trazado_" data-name=" Trazado " class="cls-1"
+              d="M24,25A5.18,5.18,0,0,0,26,23.25a4.62,4.62,0,0,0,7.7-5.09,4.48,4.48,0,0,0-1.8-1.57v-.47a4.61,4.61,0,0,0-4.59-4.62h0a4.61,4.61,0,0,0-2.29.6,7,7,0,0,0-13.85-.32,7,7,0,1,0,5.92,12.15"/>
+      </g>
+    </g>
+    <polygon id="_Trazado_2" data-name=" Trazado 2" class="cls-1"
+             points="18.5 20.27 23.55 20.27 21.07 24.98 23.94 24.98 16.39 34.01 18.71 27.15 16.04 27.15 18.5 20.27"/>
+  </g>
+</svg>

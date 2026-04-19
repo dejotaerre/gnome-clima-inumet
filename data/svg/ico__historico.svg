@@ -1,0 +1,25 @@
+<svg id="ico_satelite" data-name="ico  satelite" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23">
+  <defs>
+    <style>.cls-1{fill:#3baec7;}</style>
+  </defs>
+  <title>ico__historico</title>
+  <path class="cls-1"
+        d="M23.3.66H1.24a.47.47,0,0,0-.47.47V23.19a.47.47,0,0,0,.47.47H20a.47.47,0,1,0,0-.94H1.71V1.6H22.83V23.19a.47.47,0,1,0,.94,0V1.13A.47.47,0,0,0,23.3.66Zm0,0"
+        transform="translate(-0.77 -0.66)"/>
+  <path class="cls-1"
+        d="M5.9,5.53A1.8,1.8,0,1,0,7.7,7.32,1.79,1.79,0,0,0,5.9,5.53Zm0,2.65a.86.86,0,1,1,.86-.86.85.85,0,0,1-.86.86Zm0,0"
+        transform="translate(-0.77 -0.66)"/>
+  <path class="cls-1" d="M20,6.86H9.1a.47.47,0,0,0,0,.93H20a.47.47,0,1,0,0-.93Zm0,0"
+        transform="translate(-0.77 -0.66)"/>
+  <path class="cls-1"
+        d="M5.9,10.37a.47.47,0,0,0,0,.93.86.86,0,1,1-.85.86.47.47,0,1,0-.94,0A1.8,1.8,0,1,0,5.9,10.37Zm0,0"
+        transform="translate(-0.77 -0.66)"/>
+  <path class="cls-1" d="M20,11.69H9.1a.47.47,0,0,0,0,.94H20a.47.47,0,0,0,0-.94Zm0,0"
+        transform="translate(-0.77 -0.66)"/>
+  <path class="cls-1"
+        d="M5.9,15.2A1.8,1.8,0,1,0,7.7,17a1.8,1.8,0,0,0-1.8-1.8Zm0,2.65A.86.86,0,1,1,6.76,17a.85.85,0,0,1-.86.85Zm0,0"
+        transform="translate(-0.77 -0.66)"/>
+  <path class="cls-1"
+        d="M20,16.53H9.1a.46.46,0,0,0-.46.47.45.45,0,0,0,.46.46H20a.46.46,0,0,0,.47-.46.47.47,0,0,0-.47-.47Zm0,0"
+        transform="translate(-0.77 -0.66)"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="noche-algo-cubierto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1,.cls-2,.cls-4{fill:#fff;}.cls-2,.cls-3{stroke:#0b0a5e;}.cls-2,.cls-3,.cls-4{stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}.cls-3{fill:none;}.cls-4{stroke:#6dadc6;}
+    </style>
+  </defs>
+  <title>ico__noche-algo-cubierto</title>
+  <polygon class="cls-1"
+           points="21.76 14.66 23.14 11.45 27.64 8.82 27.2 13.01 28.33 16.2 29.83 17.7 33.36 18.69 35.08 18.7 33.14 20.95 31.51 22.57 30.39 22.38 29.26 19.32 27.14 18.32 24.26 18.51 21.76 14.66"/>
+  <g id="_Grupo_" data-name=" Grupo ">
+    <g id="_Grupo_2" data-name=" Grupo 2">
+      <path id="_Trazado_2" data-name=" Trazado 2" class="cls-2" d="M32.72,23.16a8.61,8.61,0,0,0,5.71-4.75"/>
+      <path id="_Trazado_4" data-name=" Trazado 4" class="cls-2" d="M30.16,6.31a8.57,8.57,0,0,0-7.87,6.86"/>
+      <path id="_Trazado_5" data-name=" Trazado 5" class="cls-3"
+            d="M30.3,6.31a7.5,7.5,0,0,0,5.93,12.1,7.58,7.58,0,0,0,2.31-.36"/>
+    </g>
+    <g id="_Grupo_3" data-name=" Grupo 3">
+      <path id="_Trazado_7" data-name=" Trazado 7" class="cls-4"
+            d="M32.15,23.15V22.6A5.35,5.35,0,0,0,24.24,18a8.11,8.11,0,0,0-16-.37,8.12,8.12,0,1,0,7.34,13.6,6.12,6.12,0,0,0,8.6,1,6.36,6.36,0,0,0,1.23-1.31,5.34,5.34,0,1,0,6.82-7.72Z"/>
+    </g>
+  </g>
+</svg>

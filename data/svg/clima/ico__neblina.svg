@@ -1,0 +1,20 @@
+<svg id="neblina" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1{fill:#fff;}.cls-1,.cls-2{stroke:#6dadc6;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}.cls-2{fill:none;}
+    </style>
+  </defs>
+  <title>ico__neblina</title>
+  <g id="_Grupo_5" data-name=" Grupo 5">
+    <g id="_Grupo_6" data-name=" Grupo 6">
+      <g id="_Grupo_7" data-name=" Grupo 7">
+        <path id="_Trazado_6" data-name=" Trazado 6" class="cls-1"
+              d="M35.26,19.62q0-.3,0-.6a5.87,5.87,0,0,0-8.78-5.11,8.92,8.92,0,0,0-17.63-.47,9,9,0,0,0,3.22,17.62A8.83,8.83,0,0,0,16.9,28.4a6.77,6.77,0,0,0,9.49,1.08,6.41,6.41,0,0,0,1.33-1.42,5.87,5.87,0,1,0,7.5-8.49Z"/>
+      </g>
+    </g>
+    <g id="_Grupo_8" data-name=" Grupo 8">
+      <line id="_Trazado_7" data-name=" Trazado 7" class="cls-2" x1="14.45" y1="19.53" x2="25.65" y2="19.53"/>
+      <line id="_Trazado_10" data-name=" Trazado 10" class="cls-2" x1="14.45" y1="23.03" x2="25.65" y2="23.03"/>
+    </g>
+  </g>
+</svg>

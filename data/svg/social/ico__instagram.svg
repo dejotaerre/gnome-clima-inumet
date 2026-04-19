@@ -1,0 +1,10 @@
+<svg id="ico_youtube" data-name="ico  youtube" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 20.93">
+  <defs>
+    <style>.cls-1{fill:none;stroke:#00a9c5;stroke-miterlimit:10;}</style>
+  </defs>
+  <title>ico__instagram</title>
+  <path class="cls-1"
+        d="M5.63.5h9.75A5.13,5.13,0,0,1,20.5,5.63v9.68a5.12,5.12,0,0,1-5.12,5.12H5.63A5.12,5.12,0,0,1,.5,15.31V5.63A5.13,5.13,0,0,1,5.63.5Z"/>
+  <circle class="cls-1" cx="10.37" cy="10.57" r="4.75"/>
+  <ellipse class="cls-1" cx="15.99" cy="4.53" rx="1.22" ry="1.21"/>
+</svg>

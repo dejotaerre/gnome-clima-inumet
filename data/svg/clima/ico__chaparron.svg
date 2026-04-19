@@ -1,0 +1,20 @@
+<svg id="clima-chaparron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <style>.cls-1{fill:#fff;stroke:#6dadc6;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}</style>
+  </defs>
+  <title>ico__chaparron</title>
+  <g id="_Grupo_" data-name=" Grupo ">
+    <g id="_Grupo_2" data-name=" Grupo 2">
+      <path id="_Trazado_" data-name=" Trazado " class="cls-1"
+            d="M35.06,15.3v-.66a5.88,5.88,0,0,0-5.83-5.83,5.64,5.64,0,0,0-2.91.8,8.74,8.74,0,0,0-8.74-7.68A8.93,8.93,0,0,0,8.85,9.21a8.87,8.87,0,0,0,1.58,17.61A9.12,9.12,0,0,0,16.92,24a6.65,6.65,0,0,0,5.3,2.51,7.1,7.1,0,0,0,5.56-2.91,5.8,5.8,0,0,0,4.9,2.65,5.88,5.88,0,0,0,5.82-5.83A6.33,6.33,0,0,0,35.06,15.3Z"/>
+    </g>
+    <g id="_Grupo_3" data-name=" Grupo 3">
+      <path id="_Trazado_2" data-name=" Trazado 2" class="cls-1"
+            d="M10.83,36.22a2.1,2.1,0,0,1-2.12-2.07v0A2.45,2.45,0,0,1,9,33l1.72-2.78L12.42,33a2.31,2.31,0,0,1,.26,1.06,1.74,1.74,0,0,1-1.36,2.08A1.6,1.6,0,0,1,10.83,36.22Z"/>
+      <path id="_Trazado_3" data-name=" Trazado 3" class="cls-1"
+            d="M20,37.67a2.08,2.08,0,0,1-2.12-2.06v-.06a2.63,2.63,0,0,1,.26-1.06l1.72-2.78,1.72,2.78a2.49,2.49,0,0,1,.27,1.06,1.89,1.89,0,0,1-1.63,2.11Z"/>
+      <path id="_Trazado_4" data-name=" Trazado 4" class="cls-1"
+            d="M29,36.22a2.09,2.09,0,0,1-2.12-2.07v0A2.59,2.59,0,0,1,27.11,33l1.73-2.78L30.56,33a2.59,2.59,0,0,1,.26,1.06,1.87,1.87,0,0,1-1.62,2.1Z"/>
+    </g>
+  </g>
+</svg>
