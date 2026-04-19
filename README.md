@@ -44,7 +44,7 @@ No es una solución global, sino una herramienta práctica basada en datos local
 
 ## 👨‍💻 Autor
 
-**Héctor De Armas**
+**Héctor De Armas (dejotaerre)**
 
 Proyecto personal enfocado en integrar servicios locales en el escritorio Linux de forma simple y directa.
 
@@ -55,6 +55,11 @@ Proyecto personal enfocado en integrar servicios locales en el escritorio Linux 
 * GNOME Shell (46+ recomendado)
 * Python 3
 * Conexión a Internet
+
+> ⚠️ Nota sobre compatibilidad:
+>
+> La extensión no ha sido probada en GNOME 50 al momento de escribir esto.
+> Sin embargo, es muy probable que funcione correctamente sin cambios.
 
 ---
 
@@ -146,6 +151,7 @@ journalctl /usr/bin/gnome-shell -f
 ├── prefs.js
 ├── metadata.json
 ├── stylesheet.css
+├── screenshots
 └── data/
     ├── config.json
     ├── weather.inumet.py
