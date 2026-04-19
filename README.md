@@ -113,11 +113,17 @@ gnome-extensions list | grep inumet
 
 ## ⚙️ Configuración
 
-Archivo:
+La extensión incluye una interfaz de configuración en la propia extensión.
+
+Desde allí podés:
+
+- Seleccionar estación meteorológica
+- Ajustar parámetros del comportamiento
+
+Para usuarios avanzados, también es posible editar manualmente:
 
 ```text
 data/config.json
-```
 
 Permite:
 
