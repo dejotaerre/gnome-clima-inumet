@@ -17,6 +17,17 @@ Esta extensión integra información meteorológica en GNOME Shell:
 
 Los datos provienen del **Instituto Uruguayo de Meteorología (INUMET)**.
 
+## 📸 Capturas
+
+### Tema oscuro
+![Panel oscuro](screenshots/panel-oscuro.png)
+
+### Tema claro
+![Panel claro](screenshots/panel-claro.png)
+
+### Configuración
+![Configuración](screenshots/configuracion.png)
+
 ---
 
 ## 🎯 Enfoque del proyecto
