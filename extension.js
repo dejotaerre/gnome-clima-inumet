@@ -426,7 +426,7 @@ class Indicator extends PanelMenu.Button {
 
     this._place.set_text(safe(d.localidad));
 
-    this._temp.set_text(` ${t}°`);
+    this._temp.set_text(`🌡️ ${t}°`);
     this._status.set_text(safe(d.textotiempo || d.cielo));
     this._minmax.set_text(`↓ ${safe(today.tempMin)}°  ↑ ${safe(today.tempMax)}°`);
     setIcon(this._heroIcon, d.icono);
