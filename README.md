@@ -19,10 +19,10 @@ Los datos provienen del **Instituto Uruguayo de Meteorología (INUMET)**.
 
 ## 📸 Capturas
 
-### Tema oscuro
+### En un tema oscuro
 ![Panel oscuro](screenshots/panel-oscuro.png)
 
-### Tema claro
+### En un tema claro
 ![Panel claro](screenshots/panel-claro.png)
 
 ### Configuración
