@@ -17,15 +17,20 @@ Esta extensión integra información meteorológica en GNOME Shell:
 
 Los datos provienen del **Instituto Uruguayo de Meteorología (INUMET)**.
 
+---
+
 ## 📸 Capturas
 
 ### En un tema oscuro
+
 ![Panel oscuro](screenshots/panel-oscuro.png)
 
 ### En un tema claro
+
 ![Panel claro](screenshots/panel-claro.png)
 
 ### Configuración
+
 ![Configuración](screenshots/configuracion.png)
 
 ---
@@ -60,6 +65,30 @@ Proyecto personal enfocado en integrar servicios locales en el escritorio Linux 
 >
 > La extensión no ha sido probada en GNOME 50 al momento de escribir esto.
 > Sin embargo, es muy probable que funcione correctamente sin cambios.
+
+---
+
+## 🎨 Soporte de emojis
+
+Esta extensión utiliza emojis para representar algunos datos (temperatura, humedad, sol, etc.).
+
+En la mayoría de distribuciones Linux modernas (incluyendo Ubuntu), esto funciona correctamente por defecto.
+
+Sin embargo, en algunos sistemas o entornos mínimos, los emojis pueden no mostrarse correctamente (apareciendo como cuadrados).
+
+### Solución
+
+Instalar soporte de emojis:
+
+```bash
+sudo apt install fonts-noto-color-emoji
+```
+
+Luego cerrar sesión y volver a entrar.
+
+### Nota
+
+La extensión seguirá funcionando aunque los emojis no se muestren correctamente.
 
 ---
 
@@ -117,13 +146,14 @@ La extensión incluye una interfaz de configuración en la propia extensión.
 
 Desde allí podés:
 
-- Seleccionar estación meteorológica
-- Ajustar parámetros del comportamiento
+* Seleccionar estación meteorológica
+* Ajustar parámetros del comportamiento
 
 Para usuarios avanzados, también es posible editar manualmente:
 
 ```text
 data/config.json
+```
 
 Permite:
 

@@ -148,7 +148,7 @@ class Indicator extends PanelMenu.Button {
     });
 
     this._temp = new St.Label({
-      text: ' --°',
+      text: '🌡️ --°',
       style_class: 'weather-temp',
     });
 
